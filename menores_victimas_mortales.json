@@ -1,0 +1,97 @@
+﻿{
+    "Url": "www.epdata.es/numero-menores-victimas-mortales-violencia-genero/c61a1801-e71a-4bc8-a670-b8f6864b70eb",
+    "Respuesta": {
+        "Id": "c61a1801-e71a-4bc8-a670-b8f6864b70eb",
+        "Url": "www.epdata.es/numero-menores-victimas-mortales-violencia-genero/c61a1801-e71a-4bc8-a670-b8f6864b70eb",
+        "Titulo": "Número de menores víctimas mortales de violencia de género",
+        "Subtitulo": "",
+        "Datos": {
+            "Metricas": [
+                {
+                    "Id": 0,
+                    "Nombre": "Número de menores víctimas mortales",
+                    "SonDatosNumericos": true,
+                    "Fuente": "Ministerio de Igualdad",
+                    "Clasificacion": null,
+                    "Unidad": "Víctimas mortales",
+                    "Escala": "Unidades",
+                    "EscalaFactorPotencia10": 0,
+                    "Datos": [
+                        {
+                            "Agno": 2013,
+                            "Periodo": "Año",
+                            "Parametro": "2013",
+                            "Valor": 6,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2014,
+                            "Periodo": "Año",
+                            "Parametro": "2014",
+                            "Valor": 4,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2015,
+                            "Periodo": "Año",
+                            "Parametro": "2015",
+                            "Valor": 5,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2016,
+                            "Periodo": "Año",
+                            "Parametro": "2016",
+                            "Valor": 1,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2017,
+                            "Periodo": "Año",
+                            "Parametro": "2017",
+                            "Valor": 8,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2018,
+                            "Periodo": "Año",
+                            "Parametro": "2018",
+                            "Valor": 7,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2019,
+                            "Periodo": "Año",
+                            "Parametro": "2019",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2020,
+                            "Periodo": "Año",
+                            "Parametro": "2020",
+                            "Valor": 3,
+                            "Estado": null,
+                            "Notas": null
+                        },
+                        {
+                            "Agno": 2021,
+                            "Periodo": "Año",
+                            "Parametro": "2021",
+                            "Valor": 4,
+                            "Estado": null,
+                            "Notas": null
+                        }
+                    ]
+                }
+            ]
+        }
+    }
+}

@@ -1,0 +1,58 @@
+[
+  {
+    "Anio": 2013,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 42,
+    "Victimas_mortales": 54,
+    "Promedio_Huerfanos_Victima": 0.78
+  },
+  {
+    "Anio": 2014,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 43,
+    "Victimas_mortales": 55,
+    "Promedio_Huerfanos_Victima": 0.78
+  },
+  {
+    "Anio": 2015,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 51,
+    "Victimas_mortales": 60,
+    "Promedio_Huerfanos_Victima": 0.85
+  },
+  {
+    "Anio": 2016,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 29,
+    "Victimas_mortales": 49,
+    "Promedio_Huerfanos_Victima": 0.59
+  },
+  {
+    "Anio": 2017,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 26,
+    "Victimas_mortales": 50,
+    "Promedio_Huerfanos_Victima": 0.52
+  },
+  {
+    "Anio": 2018,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 39,
+    "Victimas_mortales": 51,
+    "Promedio_Huerfanos_Victima": 0.76
+  },
+  {
+    "Anio": 2019,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 46,
+    "Victimas_mortales": 55,
+    "Promedio_Huerfanos_Victima": 0.84
+  },
+  {
+    "Anio": 2020,
+    "Periodo": "Año",
+    "Menores_Huerfanos": 26,
+    "Victimas_mortales": 45,
+    "Promedio_Huerfanos_Victima": 0.58
+  }
+]
